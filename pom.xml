@@ -30,9 +30,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/Blahaj-Studio/Blahaj-Cloud-Workload-Identity-SDK.git</connection>
-        <developerConnection>scm:git:ssh://github.com:Blahaj-Studio/Blahaj-Cloud-Workload-Identity-SDK.git</developerConnection>
-        <url>https://github.com/Blahaj-Studio/Blahaj-Cloud-Workload-Identity-SDK</url>
+        <connection>scm:git:git://github.com/Blahaj-Studio/Blahaj-Cloud-Workload-Identity-Java.git</connection>
+        <developerConnection>scm:git:ssh://github.com:Blahaj-Studio/Blahaj-Cloud-Workload-Identity-Java.git</developerConnection>
+        <url>https://github.com/Blahaj-Studio/Blahaj-Cloud-Workload-Identity-Java</url>
     </scm>
 
     <build>
